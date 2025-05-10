@@ -3,10 +3,6 @@
 
 Welcome to **MovieMate**, a sleek and responsive React application for movie enthusiasts! Using the TMDb API, users can search, explore, and save their favorite films — all styled with Material-UI and built with a mobile-first approach.
 
-## 🚀 Live Demo
-
-🔗 [View the Live App](https://your-deployed-app-link.com)
-
 ## 📂 Project Features
 
 ### 🔍 Core Features
@@ -30,5 +26,4 @@ Welcome to **MovieMate**, a sleek and responsive React application for movie ent
 - **Styling:** Material-UI (MUI)
 - **HTTP Requests:** Axios
 - **Routing:** React Router
-- **API:** [TMDb API](https://www.themoviedb.org/documentation/api)
-- **Deployment:** Vercel / Netlify
+
